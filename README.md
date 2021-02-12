@@ -1,0 +1,2 @@
+# Housing Price Prediction  
+ I built a regression model to predict the prices of real estate properties. Data-set had a lot of missing values and outliers. I cleaned the data by removing missing and dropped columns which are identification columns and have more than 40% missing values. Data-set also had significant categorical variables I converted those to factors. I build two regression models using lm (linear model), random-forest method. As the randomforest model has a higher R-Squared value (0.79), I found it the best fit model.
